@@ -3,12 +3,17 @@ The castle was quiet at night.
 A lantern illuminated the tower.
 A shadow moved behind the curtain.
 Was someone watching me?
+A lantern shined in the tower.
+A shadow moved behind the curtain.
+Was someone watching you?
+
 
 file2.txt:
 The river flowed gently.
  It reflected the moonlight.
  Nearby, an owl hooted.
  The forest seemed whimsical.
+ The forest seemed mystical.
 
 file3.txt:
 The old book lay on the wooden table.
